@@ -4,6 +4,21 @@
 Piano transcription is the task of transcribing piano recordings into MIDI files. This repo is the PyTorch implementation of our proposed high-resolution piano transcription system [1].
 
 <a href="https://replicate.com/replicate/piano-transcription"><img src="https://replicate.com/replicate/piano-transcription/badge"></a>
+pip install librosa==0.10.2
+pip install numpy==2.0.2
+pip install audioread==3.0.1
+pip install mido==1.3.3
+pip install matplotlib==3.10.0
+pip install torchlibrosa==0.1.0
+pip install ipywidgets==8.1.5
+pip install librosa==0.10.2
+pip install torch==2.6.0
+
+pip install h5py==3.12.1
+pip install pandas==2.2.3
+pip install numba==0.60.0
+pip install mir_eval==0.7
+pip install sox==1.5.0
 
 ## Demos
 Here is a demo of our piano transcription system: https://www.youtube.com/watch?v=5U-WL0QvKCg
